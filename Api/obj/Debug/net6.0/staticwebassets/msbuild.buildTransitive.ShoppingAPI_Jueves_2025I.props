@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ShoppingAPI_Jueves_2025I.props" />
+</Project>
