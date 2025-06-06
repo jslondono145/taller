@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShoppingAPI_2025.props" />
+</Project>
